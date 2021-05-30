@@ -46,3 +46,7 @@
   <summary>:zap: GitHub Stats</summary>
  <img align="left" alt="Abdulhussain's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Abdulhussainjarif&show_icons=true&hide_border=true" />
 </details>
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulhussainjarif&langs_count=5&theme=tokyonight)]()
+
