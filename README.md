@@ -42,6 +42,10 @@
 [linkedin]: https://www.linkedin.com/in/abdulhussainjarif/
 [instagram]: https://www.instagram.com/abdulhussain_jarif/
 
+##  My Github Status 👩🏻‍💻
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Abdulhussainjarif&count_private=true&theme=tokyonight&showicons=true)]()
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulhussainjarif" />
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulhussainjarif&langs_count=5&theme=tokyonight)]()
+
 
