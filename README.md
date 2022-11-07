@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdulhussain Jarif</h1>
-<h3 align="center">A Problem solver and a passionate frontend developer from India</h3>
+<h3 align="center">A Problem solver and a passionate User Experience designer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulhussainjarif&label=Profile%20views&color=0e75b6&style=flat" alt="abdulhussainjarif" /> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://abdulhussainjarif.netlify.app/)
+- 🔭 I’m currently working on [My Portfolio](https://www.behance.net/imabdulhussainjarif)
 
-- 🌱 I’m currently learning **Python and JavaScript**
+- 🌱 I’m currently learning **Java and JavaScript**
 
 - 👯 I’m looking to collaborate with other developers **to build fun projects**
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://imabdulhussain.medium.com/](https://imabdulhussain.medium.com/)
 
-- 📫 How to reach me **imabdulhussainjarif@gmail.com**
+- 📫 How to reach me **work.abdulhussainjarif@gmail.com**
 
 - 📄 Know about my experiences [https://abdulhussainjarif.netlify.app/Abdulhussain_Jarif.pdf](https://abdulhussainjarif.netlify.app/Abdulhussain_Jarif.pdf)
 
